@@ -6,6 +6,8 @@
 
 ## Getting Started ##
 
+:)
+
 * [Install .NET MAUI](https://docs.microsoft.com/dotnet/maui/get-started/first-app?pivots=windows)
 * [.NET MAUI documentation](https://docs.microsoft.com/dotnet/maui)
 * [.NET Podcasts Sample Apps](https://github.com/microsoft/dotnet-podcasts)
